@@ -133,18 +133,20 @@ class _NetworkImageState extends State<_NetworkImage> {
       widget.imageUrl,
       color: widget.color,
       colorBlendMode: widget.colorBlendMode,
-      errorBuilder: widget.errorWidget == null
-          ? null
-          : (
-              BuildContext context,
-              Object exception,
-              _,
-            ) =>
-              widget.errorWidget(
-                context,
-                widget.imageUrl,
-                exception,
-              ),
+
+      // Uncomment when the next Flutter Stable releases
+      // errorBuilder: widget.errorWidget == null
+      //     ? null
+      //     : (
+      //         BuildContext context,
+      //         Object exception,
+      //         _,
+      //       ) =>
+      //         widget.errorWidget(
+      //           context,
+      //           widget.imageUrl,
+      //           exception,
+      //         ),
       filterQuality: widget.filterQuality,
       fit: widget.fit,
       frameBuilder: (BuildContext context, Widget child, __, ___) {

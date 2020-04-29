@@ -1,3 +1,8 @@
+## [1.0.2] - April 27th, 2020
+
+* Fixed to work with Flutter stable: 1.12
+
+
 ## [1.0.1] - April 27th, 2020
 
 * Transferred to verified publisher
