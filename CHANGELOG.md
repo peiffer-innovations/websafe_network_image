@@ -1,3 +1,8 @@
+## [1.0.3] - April 27th, 2020
+
+* Version bump to test GH Publish Action
+
+
 ## [1.0.2] - April 27th, 2020
 
 * Fixed to work with Flutter stable: 1.12
