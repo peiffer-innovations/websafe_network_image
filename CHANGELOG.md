@@ -1,3 +1,8 @@
+## [1.0.4] - April 27th, 2020
+
+* Fixed copy-and-paste error on Flutter Mobile version
+
+
 ## [1.0.3] - April 27th, 2020
 
 * Version bump to test GH Publish Action

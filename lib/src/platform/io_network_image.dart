@@ -19,7 +19,7 @@ Widget createNetworkImage({
   Map<String, String> httpHeaders,
   @required String imageUrl,
   bool matchTextDirection = false,
-  ImageProvider<dynamic> placeholder,
+  PlaceholderWidgetBuilder placeholder,
   Duration placeholderFadeInDuration,
   ImageRepeat repeat = ImageRepeat.noRepeat,
   double width,
