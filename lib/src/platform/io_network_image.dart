@@ -39,11 +39,7 @@ Widget createNetworkImage({
       httpHeaders: httpHeaders,
       imageUrl: imageUrl,
       matchTextDirection: matchTextDirection,
-      placeholder: placeholder == null
-          ? null
-          : (_, __) => Image(
-                image: placeholder,
-              ),
+      placeholder: placeholder,
       placeholderFadeInDuration: placeholderFadeInDuration,
       repeat: repeat,
       width: width,

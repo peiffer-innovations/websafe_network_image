@@ -1,4 +1,9 @@
-## [1.0.4] - April 27th, 2020
+## [1.0.5] - April 30th, 2020
+
+* Fixed another minor error on Flutter Mobile version
+
+
+## [1.0.4] - April 30th, 2020
 
 * Fixed copy-and-paste error on Flutter Mobile version
 
