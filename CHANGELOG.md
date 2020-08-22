@@ -1,3 +1,8 @@
+## [1.0.5+1] - Auguest 22nd, 2020
+
+* GitHub metadata updates
+
+
 ## [1.0.5] - April 30th, 2020
 
 * Fixed another minor error on Flutter Mobile version
