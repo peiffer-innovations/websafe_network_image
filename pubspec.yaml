@@ -1,6 +1,6 @@
 name: websafe_network_image
 description: Simple abstraction to be able to detect Web, Android, and iOS without a hard reference to `dart:io`
-version: 1.0.5+1
+version: 1.0.6
 homepage: https://github.com/peiffer-innovations/websafe_network_image
 environment:
   sdk: ">=2.5.0 <3.0.0"
@@ -8,9 +8,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cached_network_image: ^2.1.0+1
-  http: ^0.12.1
-  meta: ^1.1.8
+  cached_network_image: ^2.2.0+1
+  http: ^0.12.2
+  meta: ^1.2.2
 
 dev_dependencies:
   flutter_test:
